@@ -33,6 +33,9 @@ psd
 thumb
 sketch
 
+### Build Folder ###
+build
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json

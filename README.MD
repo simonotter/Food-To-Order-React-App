@@ -1,7 +1,9 @@
 # Project Title
+
 Food to Order React App
 
 ## Demo link:
+
 Access my site at [Food to Order React App](https://delightful-rock-0ebe86c03.2.azurestaticapps.net/)
 
 ## Table of Content:
@@ -10,10 +12,7 @@ Access my site at [Food to Order React App](https://delightful-rock-0ebe86c03.2.
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Approach](#approach)
-- [Status](#status)
 - [Credits](#credits)
-- [License](#license)
 
 ## About The App
 
@@ -21,28 +20,22 @@ The Food to Order React App is project that was part of my learning React journe
 
 ## Screenshots
 
-![Main screen](screenshots/Screenshot-cart.png)
+![Main screen](screenshots/Screenshot-main.png)
 ![Cart modal screen](screenshots/Screenshot-cart.png)
 
 ## Technologies
-I used `html`, `css`, ...
+
+I used ReactJS (via Create React App), html and css.
 
 ## Setup
+
 - download or clone the repository
 - run `npm install`
-- ...
-
-## Approach
-I adopted the `BEM` naming style for my css class names and ...
-
-## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+- run `npm start`
 
 ## Credits
+
 List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
 
-## License
-
-MIT license @ [author](author.com)
+- [Simon Otter](https://github.com/simonotter)
+- [React - Complete Guide - from Academind](https://www.udemy.com/course/react-the-complete-guide-incl-redux)

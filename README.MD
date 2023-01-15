@@ -21,8 +21,8 @@ The Food to Order React App is project that was part of my learning React journe
 
 ## Screenshots
 
-`![Main screen](screenshots/Screenshot-cart.png)`
-`![Cart modal screen](screenshots/Screenshot-cart.png)`
+![Main screen](screenshots/Screenshot-cart.png)
+![Cart modal screen](screenshots/Screenshot-cart.png)
 
 ## Technologies
 I used `html`, `css`, ...

@@ -2,7 +2,7 @@
 Food to Order React App
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [Food to Order React App](https://delightful-rock-0ebe86c03.2.azurestaticapps.net/)
 
 ## Table of Content:
 
@@ -16,11 +16,12 @@ Access my site at [google.com](https://google.com)
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+The Food to Order React App is project that was part of my learning React journey with Academind's Complete React course, from a about 25% through the course, so it's still pretty basic. It uses State, a Reducer to managed the Cart and an Effect to animate the Cart icon in the header. 
 
 ## Screenshots
 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
+`![Main screen](https://photos.app.goo.gl/8btWHAwT7s9H9hMA6)`
+`![Cart modal screen](https://photos.app.goo.gl/XhZN49NabDB19Ngq5)`
 
 Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
